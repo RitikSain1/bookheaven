@@ -16,7 +16,7 @@ Database: MongoDB (Atlas or local)
 Version Control: Git & GitHub
 
 Clone the repository
-
+git clone https://github.com/RitikSain1/bookheaven
 
 FOR STARTING THIS PROJECT
 first you want to install the node_modules in backend and forntend both
